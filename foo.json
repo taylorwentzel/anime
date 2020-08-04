@@ -1,0 +1,627 @@
+{
+  "state": "complete",
+  "report": {
+    "uuid": "9b2d2462-d698-11ea-b560-0242ac110002",
+    "repos": [
+      {
+        "header": {
+          "uuid": "947fd506-d698-11ea-a7d6-0242ac110002",
+          "start_time": "2020-08-04T21:22:20.058647Z",
+          "source_client": "mix.scan",
+          "repo": "git+https://github.com/sindresorhus/gzip-size.git",
+          "library_version": "",
+          "end_time": "2020-08-04T21:22:20.298280Z",
+          "duration": 0
+        },
+        "data": {
+          "risk": "critical",
+          "results": {
+            "top10_contributors": [
+              {
+                "name": "Sindre Sorhus",
+                "merges": 3,
+                "email": "sindresorhus@gmail.com",
+                "contributions": 41
+              },
+              {
+                "name": "Andres Suarez",
+                "merges": 0,
+                "email": "zertosh@gmail.com",
+                "contributions": 2
+              },
+              {
+                "name": "Tobias Bieniek",
+                "merges": 0,
+                "email": "tobias.bieniek@gmail.com",
+                "contributions": 2
+              },
+              {
+                "name": "Deema Yvanow",
+                "merges": 0,
+                "email": "df.creative@gmail.com",
+                "contributions": 1
+              },
+              {
+                "name": "Arthur Verschaeve",
+                "merges": 1,
+                "email": "arthur.versch@gmail.com",
+                "contributions": 1
+              },
+              {
+                "name": "Dimitri Benin",
+                "merges": 0,
+                "email": "BendingBender@users.noreply.github.com",
+                "contributions": 1
+              },
+              {
+                "name": "Kevin Martensson",
+                "merges": 0,
+                "email": "kevinmartensson@gmail.com",
+                "contributions": 1
+              },
+              {
+                "name": "Mordy Tikotzky",
+                "merges": 0,
+                "email": "mordytk@gmail.com",
+                "contributions": 1
+              },
+              {
+                "name": "Brad Murray",
+                "merges": 0,
+                "email": "bradtgmurray@gmail.com",
+                "contributions": 1
+              },
+              {
+                "name": "Devon Govett",
+                "merges": 0,
+                "email": "devongovett@gmail.com",
+                "contributions": 1
+              }
+            ],
+            "recent_commit_size_in_percent_of_codebase": 0.08163,
+            "large_recent_commit_risk": "low",
+            "functional_contributors_risk": "critical",
+            "functional_contributors": 1,
+            "functional_contributor_names": [
+              "Sindre Sorhus <sindresorhus@gmail.com>"
+            ],
+            "contributor_risk": "low",
+            "contributor_count": 13,
+            "commit_currency_weeks": 61,
+            "commit_currency_risk": "high"
+          },
+          "repo_size": "268.0K",
+          "repo": "git+https://github.com/sindresorhus/gzip-size.git",
+          "project_types": {
+            "node": [
+              "/tmp/lei-1596576140-42-1q1rqa6/gzip-size.git/package.json"
+            ]
+          },
+          "git": {
+            "hash": "5499cd4cf02150119b5487a30d408b43b82e942f",
+            "default_branch": "refs/remotes/origin/master"
+          },
+          "config": {
+            "medium_large_commit_level": 0.2,
+            "medium_functional_contributors_level": 5,
+            "medium_currency_level": 26,
+            "medium_contributor_level": 5,
+            "high_large_commit_level": 0.3,
+            "high_functional_contributors_level": 3,
+            "high_currency_level": 52,
+            "high_contributor_level": 3,
+            "critical_large_commit_level": 0.4,
+            "critical_functional_contributors_level": 2,
+            "critical_currency_level": 104,
+            "critical_contributor_level": 2,
+            "base_temp_dir": "/tmp"
+          }
+        }
+      },
+      {
+        "header": {
+          "uuid": "94c2410c-d698-11ea-baea-0242ac110002",
+          "start_time": "2020-08-04T21:22:20.540811Z",
+          "source_client": "mix.scan",
+          "repo": "git+https://github.com/sindresorhus/pretty-bytes.git",
+          "library_version": "",
+          "end_time": "2020-08-04T21:22:20.734933Z",
+          "duration": 0
+        },
+        "data": {
+          "risk": "critical",
+          "results": {
+            "top10_contributors": [
+              {
+                "name": "Sindre Sorhus",
+                "merges": 1,
+                "email": "sindresorhus@gmail.com",
+                "contributions": 41
+              },
+              {
+                "name": "Kevin Martensson",
+                "merges": 0,
+                "email": "kevinmartensson@gmail.com",
+                "contributions": 2
+              },
+              {
+                "name": "Dimitri Benin",
+                "merges": 0,
+                "email": "BendingBender@users.noreply.github.com",
+                "contributions": 1
+              },
+              {
+                "name": "Luciano Battagliero",
+                "merges": 0,
+                "email": "lucianobattagliero+git@gmail.com",
+                "contributions": 1
+              },
+              {
+                "name": "Cyril Auburtin",
+                "merges": 0,
+                "email": "cyril.auburtin@gmail.com",
+                "contributions": 1
+              },
+              {
+                "name": "Monty Anderson",
+                "merges": 0,
+                "email": "montydev@protonmail.com",
+                "contributions": 1
+              },
+              {
+                "name": "Patrick Kettner",
+                "merges": 0,
+                "email": "patrickkettner@gmail.com",
+                "contributions": 1
+              },
+              {
+                "name": "Tobias Bieniek",
+                "merges": 0,
+                "email": "tobias.bieniek@gmail.com",
+                "contributions": 1
+              },
+              {
+                "name": "Yoann Ciabaud",
+                "merges": 0,
+                "email": "yciabaud@users.noreply.github.com",
+                "contributions": 1
+              },
+              {
+                "name": "dawsonbotsford",
+                "merges": 0,
+                "email": "dawsonbotsford@gmail.com",
+                "contributions": 1
+              }
+            ],
+            "recent_commit_size_in_percent_of_codebase": 0.005,
+            "large_recent_commit_risk": "low",
+            "functional_contributors_risk": "critical",
+            "functional_contributors": 1,
+            "functional_contributor_names": [
+              "Sindre Sorhus <sindresorhus@gmail.com>"
+            ],
+            "contributor_risk": "low",
+            "contributor_count": 11,
+            "commit_currency_weeks": 29,
+            "commit_currency_risk": "medium"
+          },
+          "repo_size": "268.0K",
+          "repo": "git+https://github.com/sindresorhus/pretty-bytes.git",
+          "project_types": {
+            "node": [
+              "/tmp/lei-1596576140-42-1omk14b/pretty-bytes.git/package.json"
+            ]
+          },
+          "git": {
+            "hash": "4a2eb7687d2b5a5d604e06b6a91a822a6e3e1a2b",
+            "default_branch": "refs/remotes/origin/master"
+          },
+          "config": {
+            "medium_large_commit_level": 0.2,
+            "medium_functional_contributors_level": 5,
+            "medium_currency_level": 26,
+            "medium_contributor_level": 5,
+            "high_large_commit_level": 0.3,
+            "high_functional_contributors_level": 3,
+            "high_currency_level": 52,
+            "high_contributor_level": 3,
+            "critical_large_commit_level": 0.4,
+            "critical_functional_contributors_level": 2,
+            "critical_currency_level": 104,
+            "critical_contributor_level": 2,
+            "base_temp_dir": "/tmp"
+          }
+        }
+      },
+      {
+        "header": {
+          "uuid": "990b37b4-d698-11ea-88fa-0242ac110002",
+          "start_time": "2020-08-04T21:22:21.485979Z",
+          "source_client": "mix.scan",
+          "repo": "git+https://github.com/rollup/rollup.git",
+          "library_version": "",
+          "end_time": "2020-08-04T21:22:27.923996Z",
+          "duration": 6
+        },
+        "data": {
+          "risk": "low",
+          "results": {
+            "top10_contributors": [
+              {
+                "name": "Rich Harris",
+                "merges": 464,
+                "email": "richard.a.harris@gmail.com",
+                "contributions": 1555
+              },
+              {
+                "name": "Lukas Taegert",
+                "merges": 200,
+                "email": "lukas.taegert@tngtech.com",
+                "contributions": 794
+              },
+              {
+                "name": "Lukas Taegert-Atkinson",
+                "merges": 0,
+                "email": "lukas.taegert-atkinson@tngtech.com",
+                "contributions": 468
+              },
+              {
+                "name": "Guy Bedford",
+                "merges": 6,
+                "email": "guybedford@gmail.com",
+                "contributions": 350
+              },
+              {
+                "name": "Lukas Taegert-Atkinson",
+                "merges": 44,
+                "email": "lukastaegert@users.noreply.github.com",
+                "contributions": 303
+              },
+              {
+                "name": "Oskar Segersvärd",
+                "merges": 15,
+                "email": "victorystick@gmail.com",
+                "contributions": 149
+              },
+              {
+                "name": "Bogdan Chadkin",
+                "merges": 12,
+                "email": "trysound@yandex.ru",
+                "contributions": 63
+              },
+              {
+                "name": "Brian Donovan",
+                "merges": 10,
+                "email": "me@brian-donovan.com",
+                "contributions": 31
+              },
+              {
+                "name": "Kelly Selden",
+                "merges": 0,
+                "email": "kellyselden@gmail.com",
+                "contributions": 22
+              },
+              {
+                "name": "Permutator",
+                "merges": 1,
+                "email": "permutatorem@gmail.com",
+                "contributions": 20
+              }
+            ],
+            "recent_commit_size_in_percent_of_codebase": 4.0e-5,
+            "large_recent_commit_risk": "low",
+            "functional_contributors_risk": "low",
+            "functional_contributors": 13,
+            "functional_contributor_names": [
+              "Lukas Taegert-Atkinson <lukastaegert@users.noreply.github.com>",
+              "Permutator <permutatorem@gmail.com>",
+              "Oskar Segersvärd <victorystick@gmail.com>",
+              "Lukas Taegert <lukas.taegert@tngtech.com>",
+              "greenkeeperio-bot <support@greenkeeper.io>",
+              "Rich Harris <richard.a.harris@gmail.com>",
+              "Alan Agius <alan.agius4@gmail.com>",
+              "Brian Donovan <me@brian-donovan.com>",
+              "Guy Bedford <guybedford@gmail.com>",
+              "Bogdan Chadkin <trysound@yandex.ru>",
+              "Lukas Taegert-Atkinson <lukas.taegert-atkinson@tngtech.com>",
+              "Mateusz Burzyński <mateuszburzynski@gmail.com>",
+              "Kelly Selden <kellyselden@gmail.com>"
+            ],
+            "contributor_risk": "low",
+            "contributor_count": 255,
+            "commit_currency_weeks": 1,
+            "commit_currency_risk": "low"
+          },
+          "repo_size": "70.1M",
+          "repo": "git+https://github.com/rollup/rollup.git",
+          "project_types": {
+            "node": [
+              "/tmp/lei-1596576141-42-49iam5/rollup.git/package-lock.json",
+              "/tmp/lei-1596576141-42-49iam5/rollup.git/package.json",
+              "/tmp/lei-1596576141-42-49iam5/rollup.git/test/cli/node_modules/bar/package.json",
+              "/tmp/lei-1596576141-42-49iam5/rollup.git/test/cli/node_modules/rollup-config-foo/package.json",
+              "/tmp/lei-1596576141-42-49iam5/rollup.git/test/cli/node_modules_rename_me/bar/package.json",
+              "/tmp/lei-1596576141-42-49iam5/rollup.git/test/cli/node_modules_rename_me/rollup-config-foo/package.json",
+              "/tmp/lei-1596576141-42-49iam5/rollup.git/test/cli/samples/config-json/package.json",
+              "/tmp/lei-1596576141-42-49iam5/rollup.git/test/cli/samples/config-no-module/sub/package.json",
+              "/tmp/lei-1596576141-42-49iam5/rollup.git/test/cli/samples/watch/node-config-file/node_modules/rollup-config-custom/package.json"
+            ]
+          },
+          "git": {
+            "hash": "cd47fcf3169d9592e9065ec2d376859475d0b108",
+            "default_branch": "refs/remotes/origin/master"
+          },
+          "config": {
+            "medium_large_commit_level": 0.2,
+            "medium_functional_contributors_level": 5,
+            "medium_currency_level": 26,
+            "medium_contributor_level": 5,
+            "high_large_commit_level": 0.3,
+            "high_functional_contributors_level": 3,
+            "high_currency_level": 52,
+            "high_contributor_level": 3,
+            "critical_large_commit_level": 0.4,
+            "critical_functional_contributors_level": 2,
+            "critical_currency_level": 104,
+            "critical_contributor_level": 2,
+            "base_temp_dir": "/tmp"
+          }
+        }
+      },
+      {
+        "header": {
+          "uuid": "99ae85c2-d698-11ea-b8be-0242ac110002",
+          "start_time": "2020-08-04T21:22:28.744448Z",
+          "source_client": "mix.scan",
+          "repo": "git+https://github.com/rollup/rollup-plugin-buble.git",
+          "library_version": "",
+          "end_time": "2020-08-04T21:22:28.994269Z",
+          "duration": 0
+        },
+        "data": {
+          "risk": "medium",
+          "results": {
+            "top10_contributors": [
+              {
+                "name": "Rich Harris",
+                "merges": 1,
+                "email": "richard.a.harris@gmail.com",
+                "contributions": 23
+              },
+              {
+                "name": "Adrian Heine né Lang",
+                "merges": 0,
+                "email": "mail@adrianheine.de",
+                "contributions": 7
+              },
+              {
+                "name": "Lukas Taegert-Atkinson",
+                "merges": 0,
+                "email": "lukas.taegert-atkinson@tngtech.com",
+                "contributions": 4
+              },
+              {
+                "name": "Nathan Cahill",
+                "merges": 0,
+                "email": "nathan@nathancahill.com",
+                "contributions": 2
+              },
+              {
+                "name": "Bogdan Chadkin",
+                "merges": 1,
+                "email": "trysound@yandex.ru",
+                "contributions": 1
+              },
+              {
+                "name": "Juha Lindstedt",
+                "merges": 0,
+                "email": "juha@pakastin.fi",
+                "contributions": 1
+              },
+              {
+                "name": "Lukas Taegert-Atkinson",
+                "merges": 1,
+                "email": "lukastaegert@users.noreply.github.com",
+                "contributions": 1
+              },
+              {
+                "name": "Andrew Powell",
+                "merges": 0,
+                "email": "shellscape@users.noreply.github.com",
+                "contributions": 1
+              },
+              {
+                "name": "Dave Landry",
+                "merges": 0,
+                "email": "landry.dave@gmail.com",
+                "contributions": 1
+              },
+              {
+                "name": "Robert Martin",
+                "merges": 0,
+                "email": "rmartin@rmart.in",
+                "contributions": 1
+              }
+            ],
+            "recent_commit_size_in_percent_of_codebase": 0.00458,
+            "large_recent_commit_risk": "low",
+            "functional_contributors_risk": "medium",
+            "functional_contributors": 3,
+            "functional_contributor_names": [
+              "Adrian Heine né Lang <mail@adrianheine.de>",
+              "Lukas Taegert-Atkinson <lukas.taegert-atkinson@tngtech.com>",
+              "Rich Harris <richard.a.harris@gmail.com>"
+            ],
+            "contributor_risk": "low",
+            "contributor_count": 12,
+            "commit_currency_weeks": 39,
+            "commit_currency_risk": "medium"
+          },
+          "repo_size": "344.0K",
+          "repo": "git+https://github.com/rollup/rollup-plugin-buble.git",
+          "project_types": {
+            "node": [
+              "/tmp/lei-1596576148-42-1aw81dk/rollup-plugin-buble.git/package-lock.json",
+              "/tmp/lei-1596576148-42-1aw81dk/rollup-plugin-buble.git/package.json"
+            ]
+          },
+          "git": {
+            "hash": "a87167c494ccfffa28ac80ca76419972f17fa126",
+            "default_branch": "refs/remotes/origin/master"
+          },
+          "config": {
+            "medium_large_commit_level": 0.2,
+            "medium_functional_contributors_level": 5,
+            "medium_currency_level": 26,
+            "medium_contributor_level": 5,
+            "high_large_commit_level": 0.3,
+            "high_functional_contributors_level": 3,
+            "high_currency_level": 52,
+            "high_contributor_level": 3,
+            "critical_large_commit_level": 0.4,
+            "critical_functional_contributors_level": 2,
+            "critical_currency_level": 104,
+            "critical_contributor_level": 2,
+            "base_temp_dir": "/tmp"
+          }
+        }
+      },
+      {
+        "header": {
+          "uuid": "9b29ba5c-d698-11ea-bcd3-0242ac110002",
+          "start_time": "2020-08-04T21:22:29.261074Z",
+          "source_client": "mix.scan",
+          "repo": "git+https://github.com/mishoo/UglifyJS.git",
+          "library_version": "",
+          "end_time": "2020-08-04T21:22:31.479422Z",
+          "duration": 2
+        },
+        "data": {
+          "risk": "low",
+          "results": {
+            "top10_contributors": [
+              {
+                "name": "Alex Lam S.L",
+                "merges": 1,
+                "email": "alexlamsl@gmail.com",
+                "contributions": 1237
+              },
+              {
+                "name": "Mihai Bazon",
+                "merges": 9,
+                "email": "mihai@bazon.net",
+                "contributions": 453
+              },
+              {
+                "name": "Mihai Bazon",
+                "merges": 65,
+                "email": "mihai.bazon@gmail.com",
+                "contributions": 137
+              },
+              {
+                "name": "kzc",
+                "merges": 0,
+                "email": "zaxxon2011@gmail.com",
+                "contributions": 67
+              },
+              {
+                "name": "kzc",
+                "merges": 0,
+                "email": "kzc@users.noreply.github.com",
+                "contributions": 47
+              },
+              {
+                "name": "Anthony Van de Gejuchte",
+                "merges": 0,
+                "email": "anthonyvdgent@gmail.com",
+                "contributions": 41
+              },
+              {
+                "name": "Richard van Velzen",
+                "merges": 17,
+                "email": "rvanvelzen1@gmail.com",
+                "contributions": 40
+              },
+              {
+                "name": "Richard van Velzen",
+                "merges": 0,
+                "email": "rvanvelzen@experty.com",
+                "contributions": 29
+              },
+              {
+                "name": "Ingvar Stepanyan",
+                "merges": 0,
+                "email": "me@rreverser.com",
+                "contributions": 9
+              },
+              {
+                "name": "Dan Wolff",
+                "merges": 0,
+                "email": "dan.d.wolff@gmail.com",
+                "contributions": 8
+              }
+            ],
+            "recent_commit_size_in_percent_of_codebase": 0.0015,
+            "large_recent_commit_risk": "low",
+            "functional_contributors_risk": "low",
+            "functional_contributors": 8,
+            "functional_contributor_names": [
+              "Alex Lam S.L <alexlamsl@gmail.com>",
+              "kzc <zaxxon2011@gmail.com>",
+              "Anthony Van de Gejuchte <anthonyvdgent@gmail.com>",
+              "Mihai Bazon <mihai@bazon.net>",
+              "Richard van Velzen <rvanvelzen@experty.com>",
+              "Richard van Velzen <rvanvelzen1@gmail.com>",
+              "Mihai Bazon <mihai.bazon@gmail.com>",
+              "kzc <kzc@users.noreply.github.com>"
+            ],
+            "contributor_risk": "low",
+            "contributor_count": 132,
+            "commit_currency_weeks": 0,
+            "commit_currency_risk": "low"
+          },
+          "repo_size": "14.5M",
+          "repo": "git+https://github.com/mishoo/UglifyJS.git",
+          "project_types": {
+            "node": [
+              "/tmp/lei-1596576149-42-13l79ks/UglifyJS.git/package.json"
+            ]
+          },
+          "git": {
+            "hash": "a4002ef46799438614ff0b902551fa7fedf2c884",
+            "default_branch": "refs/remotes/origin/master"
+          },
+          "config": {
+            "medium_large_commit_level": 0.2,
+            "medium_functional_contributors_level": 5,
+            "medium_currency_level": 26,
+            "medium_contributor_level": 5,
+            "high_large_commit_level": 0.3,
+            "high_functional_contributors_level": 3,
+            "high_currency_level": 52,
+            "high_contributor_level": 3,
+            "critical_large_commit_level": 0.4,
+            "critical_functional_contributors_level": 2,
+            "critical_currency_level": 104,
+            "critical_contributor_level": 2,
+            "base_temp_dir": "/tmp"
+          }
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "times": {
+      "start_time": "2020-08-04T21:22:19.345272Z",
+      "end_time": "2020-08-04T21:22:31.502156Z",
+      "duration": 12
+    },
+    "risk_counts": {
+      "medium": 1,
+      "low": 2,
+      "critical": 2
+    },
+    "repo_count": 5,
+    "dependency_count": 5
+  }
+}
